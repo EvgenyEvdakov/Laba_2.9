@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 def combinations(m, n):
     # базовый случай
     if m == 0 or m == n:
